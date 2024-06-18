@@ -15,3 +15,6 @@ Technologies Used:
 
 Python: Main programming language for implementation.
 NLTK: For text preprocessing, tokenization, and stopword removal.
+
+
+![image](https://github.com/22922511/-Intelligent-Query-Analysis-Automated-Topic-Extraction-Using-Advanced-NLP-Techniques/assets/146309666/d1217bb5-9044-4c5e-9ba2-e3f5c4182056)
