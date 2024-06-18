@@ -1,0 +1,2 @@
+# -Intelligent-Query-Analysis-Automated-Topic-Extraction-Using-Advanced-NLP-Techniques
+ The aim of this project is to develop a robust system that automatically extracts important topics or keywords from questions. This will facilitate quick understanding, categorization, and indexing of queries, which is particularly useful in various applications such as customer support, academic research, and information retrieval systems.
