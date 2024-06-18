@@ -18,3 +18,7 @@ NLTK: For text preprocessing, tokenization, and stopword removal.
 
 
 ![image](https://github.com/22922511/-Intelligent-Query-Analysis-Automated-Topic-Extraction-Using-Advanced-NLP-Techniques/assets/146309666/d1217bb5-9044-4c5e-9ba2-e3f5c4182056)
+![image](https://github.com/22922511/-Intelligent-Query-Analysis-Automated-Topic-Extraction-Using-Advanced-NLP-Techniques/assets/146309666/a3797f92-2484-4e86-987a-be5a98ac604b)
+![image](https://github.com/22922511/-Intelligent-Query-Analysis-Automated-Topic-Extraction-Using-Advanced-NLP-Techniques/assets/146309666/0e7a126b-b9ae-4346-aac7-51f953e02640)
+![image](https://github.com/22922511/-Intelligent-Query-Analysis-Automated-Topic-Extraction-Using-Advanced-NLP-Techniques/assets/146309666/7a5dbcee-0ceb-4b08-b013-faa96c054e3b)
+
